@@ -1,0 +1,4 @@
+interface:
+  display_name: "上传到GitHub并进行落地页部署"
+  short_description: "将完整作品代码开源到 GitHub，并通过 HTML 落地页展示产品内容"
+  default_prompt: "请使用 $github-open-source-pages，将我的作品完整开源到 GitHub，并部署可访问的 HTML 产品展示页。"
